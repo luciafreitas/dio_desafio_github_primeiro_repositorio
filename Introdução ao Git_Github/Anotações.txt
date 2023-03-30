@@ -1,0 +1,7 @@
+Para deletar um arquivo público no Github, siga os seguintes passos:
+
+Acesse a sua página de repositórios no Github e selecione o repositório em que se encontra o arquivo que deseja excluir.
+Na página do repositório, clique no arquivo que deseja excluir.
+Na página do arquivo, clique no botão "Trash" (lixeira) localizado na barra de ferramentas superior.
+Na janela que aparece, confirme que deseja excluir o arquivo clicando no botão "Commit change" (confirmar alterações).
+Pronto, o arquivo público será excluído do seu repositório no Github. Lembre-se de que essa ação não pode ser desfeita, então verifique cuidadosamente antes de excluir o arquivo.
